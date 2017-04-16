@@ -1,8 +1,34 @@
 .header {
-    color: darkgoldenrod;
-    border: 15px dotted lavender;
+    color: black;
+    border: 19px dotted aliceblue;
     text-align: center;
+    font-size: 18pt;
 }
 html  {
      font-family: 'Lato', sans-serif;
+        background-color: darkseagreen;
+}
+body  {
+    text-align: center;
+    margin: 50px;
+}
+table  {
+    width: 100%;
+    border: 1px solid black;
+    margin-top: 69px;
+    padding: 20px;
+    font-size: 14pt;
+}
+tr  {
+    padding: 20px;
+}
+.footer  {
+     font-size: 14pt;
+     color: black;
+    border: 15px dotted aliceblue;
+}
+.content p  {
+    font-size: 14pt;
+     margin-bottom: 40px;
+    margin-top: 40px;
 }
