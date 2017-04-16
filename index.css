@@ -1,4 +1,8 @@
 .header {
-    color: black;
+    color: darkgoldenrod;
+    border: 15px dotted lavender;
     text-align: center;
+}
+html  {
+     font-family: 'Lato', sans-serif;
 }
